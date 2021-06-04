@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Angie Seaway Artist
 
-You can use the [editor on GitHub](https://github.com/AngieSeaway/Angie-Seaway-artist/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi there, I live and paint here in East Devon; just minutes from the coast. The paintings on sale here all began in the landscape with the weather and the elements and that initial emotive response triggers the creative process. Paint is layered thinly over lines of charcoal and then layers of paint are built up with inks, pigments and glazes adding texture and interest. I hope you enjoy them as much as I enjoyed painting them. Do use the QR code, if you wish to see more!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+E: angieseaway13@gmail.com
+T:  07971032927 or message me via social media. 
 
-### Markdown
+#### Contents 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AngieSeaway/Angie-Seaway-artist/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [Underwater pond recordings (Jan - May)](https://jackhalgh.github.io/The-Seasonal-Soundscape-Project/January)
+- [Old Sneed Park Nature Reserve](https://jackhalgh.github.io/The-Seasonal-Soundscape-Project/Reserve)
+- [History](https://jackhalgh.github.io/The-Seasonal-Soundscape-Project/History)
+- [Wildlife](https://jackhalgh.github.io/The-Seasonal-Soundscape-Project/Wildlife)
